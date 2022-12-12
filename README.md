@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mridul-max&label=Profile%20views&color=0e75b6&style=flat" alt="mridul-max" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mridul-max" alt="mridul-max" /></a> </p>
-
 - 🌱 I’m currently learning **GoLang,Python,RedHat openshift,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mridul-max](https://github.com/mridul-max)
@@ -32,4 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mridul-max&show_icons=true&locale=en" alt="mridul-max" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mridul-max&" alt="mridul-max" /></p>
+
 
