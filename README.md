@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mahedi Hasan Mridul</h1>
-<h3 align="center">A passionate Devops Engineer from Netherlands.I'm a student from Inholland haarlem, currently in the last stage of my study where Im looking for an internship location to work on my thesis</h3>
+<h3 align="center">A passionate Software Engineer from Netherlands.I'm a student from Inholland haarlem, currently in the last stage of my study. I'm looking for a full time job as a Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mridul-max&label=Profile%20views&color=0e75b6&style=flat" alt="mridul-max" /> </p>
 
